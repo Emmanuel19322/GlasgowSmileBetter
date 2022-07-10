@@ -9,7 +9,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "io.dev00.fitnesstracker"
+        applicationId "com.emmadev00.glasgowsmilebetter"
         minSdk 28
         targetSdk 31
         versionCode 1
